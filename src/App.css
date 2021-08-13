@@ -1,0 +1,12 @@
+.App {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+}
+.footerr {
+  bottom: 0;
+  left: 37vw;
+  position: absolute;
+  margin-bottom: 2vh;
+}

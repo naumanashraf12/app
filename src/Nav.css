@@ -1,0 +1,38 @@
+ul {
+  list-style: none;
+  display: inline-block;
+  margin-bottom: 0;
+}
+ul li {
+  display: inline-block;
+  color: #a6a0bb;
+  margin-left: 1vw;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+img {
+  display: inline-block;
+  padding-bottom: 5px;
+}
+nav-main {
+  background-color: black;
+}
+.col1 {
+  margin-left: 4vw;
+}
+ul li:hover {
+  font-weight: bold;
+  color: white;
+  border-bottom: 2px solid white;
+  transition: all 0.2s;
+}
+.btn {
+  text-align: center;
+  padding: auto;
+  color: white;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  margin-left: 1em;
+  margin-bottom: 20px;
+}
